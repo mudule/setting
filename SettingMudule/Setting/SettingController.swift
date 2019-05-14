@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SnapKit
 
 open class SettingController: UIViewController {
 
