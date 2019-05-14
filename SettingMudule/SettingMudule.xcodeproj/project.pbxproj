@@ -16,7 +16,6 @@
 		60579451228A63EE00B99006 /* Setting.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6057944A228A63EE00B99006 /* Setting.framework */; };
 		60579452228A63EE00B99006 /* Setting.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6057944A228A63EE00B99006 /* Setting.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		60579458228A640200B99006 /* SettingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60579457228A640200B99006 /* SettingController.swift */; };
-		6057945D228A68E800B99006 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6057945C228A68E800B99006 /* SnapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,7 +70,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6057945D228A68E800B99006 /* SnapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -486,6 +484,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = codepgq.Setting;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -518,6 +517,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = codepgq.Setting;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
