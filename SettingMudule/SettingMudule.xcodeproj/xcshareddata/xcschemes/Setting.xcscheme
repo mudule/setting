@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "60579449228A63EE00B99006"
+               BlueprintIdentifier = "605794BA228AA63300B99006"
                BuildableName = "Setting.framework"
                BlueprintName = "Setting"
                ReferencedContainer = "container:SettingMudule.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60579449228A63EE00B99006"
+            BlueprintIdentifier = "605794BA228AA63300B99006"
             BuildableName = "Setting.framework"
             BlueprintName = "Setting"
             ReferencedContainer = "container:SettingMudule.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "60579449228A63EE00B99006"
+            BlueprintIdentifier = "605794BA228AA63300B99006"
             BuildableName = "Setting.framework"
             BlueprintName = "Setting"
             ReferencedContainer = "container:SettingMudule.xcodeproj">
