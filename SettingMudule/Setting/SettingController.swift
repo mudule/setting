@@ -14,7 +14,7 @@ open class SettingController: UIViewController {
     open override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.view.backgroundColor = .orange
+        self.view.backgroundColor = .green
     }
     
 
