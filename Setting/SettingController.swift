@@ -13,6 +13,7 @@ open class SettingController: UIViewController {
 
     open override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = .orange
         
         let btn = PQButton(frame: CGRect(origin: .zero, size: CGSize(width: 120, height: 40)), title: "点我", titleColor: .green)
         view.addSubview(btn)

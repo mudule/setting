@@ -1,15 +1,15 @@
 //
-//  LoginMuduleTests.swift
-//  LoginMuduleTests
+//  SettingMuduleTests.swift
+//  SettingMuduleTests
 //
-//  Created by 盘国权 on 2019/5/14.
+//  Created by 盘国权 on 2019/5/15.
 //  Copyright © 2019 pgq. All rights reserved.
 //
 
 import XCTest
-@testable import LoginMudule
+@testable import SettingMudule
 
-class LoginMuduleTests: XCTestCase {
+class SettingMuduleTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  LoginMudule
+//  SettingMudule
 //
-//  Created by 盘国权 on 2019/5/14.
+//  Created by 盘国权 on 2019/5/15.
 //  Copyright © 2019 pgq. All rights reserved.
 //
 
